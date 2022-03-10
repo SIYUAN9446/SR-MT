@@ -1,0 +1,6 @@
+['she', 'had', 'your', 'dark', 'suit', 'in', 'Greasy', 'wash', 'water', 'all', 'year']
+['just', 'water', 'all', 'year']
+['she', 'had', 'your', 'dark', 'suit', 'in', 'Greasy', 'wash', 'water', 'all', 'year']
+["Ward's", 'water', 'all', 'year']
+['she', 'had', 'your', 'dark', 'suit', 'and', 'greasy', 'wash', 'water', 'all', 'year']
+['Ewok', 'water', 'all', 'year']
